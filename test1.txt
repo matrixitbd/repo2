@@ -1,0 +1,10 @@
+ Volume in drive C is WIN-10
+ Volume Serial Number is 80B9-9788
+
+ Directory of C:\Users\DOEL LAPTOP\Desktop\git\MyProject
+
+06/02/2020  01:21 PM    <DIR>          .
+06/02/2020  01:21 PM    <DIR>          ..
+06/02/2020  01:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  20,641,021,952 bytes free
